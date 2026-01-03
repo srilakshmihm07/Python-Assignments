@@ -41,18 +41,18 @@ This program takes the user's first name and last name as input, combines them t
 
 1. Clone this repository:
 
-git clone https://github.com/srilakshmihm07/Python-Assignments.git
+    git clone https://github.com/srilakshmihm07/Python-Assignments.git
 
 
 2. Navigate into the folder:
 
-cd <repository-name>
+    cd <repository-name>
 
 
 3. Run each program using:
 
-python Task_1_math_op.py
+    python Task_1_math_op.py
 
-or
+    or
 
-python Task_2_personalized_greeting.py
+    python Task_2_personalized_greeting.py
