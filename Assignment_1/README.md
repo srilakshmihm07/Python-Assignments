@@ -52,5 +52,7 @@ cd <repository-name>
 3. Run each program using:
 
 python Task_1_math_op.py
+
 or
+
 python Task_2_personalized_greeting.py

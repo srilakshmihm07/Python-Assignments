@@ -11,6 +11,10 @@ This repository contains Python assignments completed as part of the Python trai
     - Task 1: Basic Math Operations
     - Task 2: Personalized Greeting
 
+- Assignment 2: Control Structures in Python
+    - Task 1: Number is Even or Odd
+    - Task 2: Sum of Integers from 1 to 50 Using a Loop
+
 Each assignment is organized in a separate folder with its own README file explaining the tasks.
 
 
