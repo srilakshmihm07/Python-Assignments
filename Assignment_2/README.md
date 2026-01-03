@@ -35,18 +35,18 @@ This program uses a for loop to iterate through numbers from 1 to 50, calculates
 
 1. Clone this repository:
 
-git clone https://github.com/srilakshmihm07/Python-Assignments.git
+    git clone https://github.com/srilakshmihm07/Python-Assignments.git
 
 
 2. Navigate into the folder:
 
-cd <repository-name>
+    cd <repository-name>
 
 
 3. Run each program using:
 
-python Task_1_even_odd.py
+    python Task_1_even_odd.py
 
-or
+    or
 
-python Task_2_sum_interger.py
+    python Task_2_sum_interger.py

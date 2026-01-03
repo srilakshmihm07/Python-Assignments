@@ -22,16 +22,18 @@ Each assignment is organized in a separate folder with its own README file expla
 
 1. Clone this repository:
 
-git clone https://github.com/srilakshmihm07/Python-Assignments.git
+    git clone https://github.com/srilakshmihm07/Python-Assignments.git
 
 
 2. Navigate into the folder:
 
-cd <repository-name>
+    cd <repository-name>
 
 
 3. Run each program using:
 
-python Task_1_math_op.py
-or
-python Task_2_personalized_greeting.py
+    python Task_1_math_op.py
+    
+    or
+    
+    python Task_2_personalized_greeting.py
