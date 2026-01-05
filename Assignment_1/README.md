@@ -46,7 +46,7 @@ This program takes the user's first name and last name as input, combines them t
 
 2. Navigate into the folder:
 
-    cd <repository-name>
+    cd [repository-name]
 
 
 3. Run each program using:

@@ -15,6 +15,10 @@ This repository contains Python assignments completed as part of the Python trai
     - Task 1: Number is Even or Odd
     - Task 2: Sum of Integers from 1 to 50 Using a Loop
 
+- Assignment 3: Functions & Modules in Python
+    - Task 1: Factorial Using a Function
+    - Task 2: Math Module for Calculations
+
 Each assignment is organized in a separate folder with its own README file explaining the tasks.
 
 
@@ -27,7 +31,7 @@ Each assignment is organized in a separate folder with its own README file expla
 
 2. Navigate into the folder:
 
-    cd <repository-name>
+    cd [repository-name]
 
 
 3. Run each program using:

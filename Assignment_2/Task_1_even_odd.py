@@ -1,3 +1,5 @@
+#Task 1: Check if a Number is Even or Odd
+
 num=int(input("Enter the number: "))
 if num % 2 ==0:
     print(num, "is an even number")

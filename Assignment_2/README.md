@@ -40,7 +40,7 @@ This program uses a for loop to iterate through numbers from 1 to 50, calculates
 
 2. Navigate into the folder:
 
-    cd <repository-name>
+    cd [repository-name]
 
 
 3. Run each program using:
