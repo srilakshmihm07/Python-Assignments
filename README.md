@@ -19,6 +19,10 @@ This repository contains Python assignments completed as part of the Python trai
     - Task 1: Factorial Using a Function
     - Task 2: Math Module for Calculations
 
+- Assignment 4: Files, Exceptions, and Errors in Python
+    - Task 1: Read a File and Handle Errors
+    - Task 2: Write and Append Data to a File
+
 Each assignment is organized in a separate folder with its own README file explaining the tasks.
 
 

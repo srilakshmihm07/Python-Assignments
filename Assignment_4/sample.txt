@@ -1,0 +1,3 @@
+Opens and reads a text file named sample.txt.
+Prints its content line by line.
+Handles errors gracefully if the file does not exist.
