@@ -23,6 +23,10 @@ This repository contains Python assignments completed as part of the Python trai
     - Task 1: Read a File and Handle Errors
     - Task 2: Write and Append Data to a File
 
+- Assignment 5: Data Structures and Strings in Python
+    - Task 1: Dictionary of Student Marks
+    - Task 2: List Slicing
+    
 Each assignment is organized in a separate folder with its own README file explaining the tasks.
 
 
